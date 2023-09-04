@@ -1,0 +1,2 @@
+# Django-SchoolManagementSystem
+Django-SchoolManagementSystem
